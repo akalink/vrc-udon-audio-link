@@ -805,4 +805,4 @@ ColorChord is another project for doing sound reactive lighting IRL.  More info 
 Shadowriver maintains this protocol reference, in spreadsheet format  https://docs.google.com/spreadsheets/d/1PkA98uI_zslpTr6ARBVGOBSq5Yna0rKPe_RWbdtbERM/edit?usp=sharing
 
 ### Amplify
-Audiolink adds nodes to Amplify to allow creation of Audiolink supported shaders using the Amplify Shader Editor. Documentation can be found [HERE](README-AMPLIFY.MD).
+AudioLink adds nodes to Amplify to allow creation of Audiolink supported shaders using the Amplify Shader Editor. Documentation can be found [HERE](README-AMPLIFY.MD).
